@@ -1,5 +1,3 @@
-To create a colorful and informative GitHub README for **Kulmi Digital Agency**, highlighting the various services and web languages used, you can use the following template:
-
 ---
 
 # Welcome to Kulmi Digital Agency 🚀
